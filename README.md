@@ -1,4 +1,4 @@
-# Sahana Patil — Deep Navy & Teal Animated Portfolio
+# Sahana Patil 
 
 Responsive portfolio built with Next.js, React, Framer Motion, Lucide React and custom CSS.
 
