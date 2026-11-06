@@ -185,7 +185,7 @@ export default function Home() {
             </Reveal>
           )}
         </div>
-        <p className="small-note">Replace profile-level GitHub links with the exact project repositories before sharing with recruiters.</p>
+        {/* <p className="small-note">Replace profile-level GitHub links with the exact project repositories before sharing with recruiters.</p> */}
       </section>
 
       <section className="section-wrap section-block" id="education">
